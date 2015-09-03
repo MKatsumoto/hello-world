@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 This is a text file to test git & github!
 
 >>MKatsumoto
 
 My name is Koniyasu.
+
+This is a text file to test git & github! by haya
+>>>>>>> cc92e564f577c0b4b135a465d5493ddf73b8b5a3
